@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    /*
+    bin will contain .class files
+    .class files are compiled version of .java files
+    */
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
